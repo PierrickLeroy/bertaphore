@@ -11,7 +11,7 @@ A project to detect surprise in texts.
 <!-- describe how is works-->
 
 ## Examples
-
+<img src="https://github.com/PierrickLeroy/bertaphore/blob/master/images/readme_images/shark_prey.png" width="500" />
 
 ## Discussion
 
